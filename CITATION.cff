@@ -1,0 +1,19 @@
+cff-1.2.0
+title: Geographic and thematic gaps in wildfire resilience research
+message: If you use this dataset or code, please cite the paper.
+type: dataset
+authors:
+  - family-names: Fong
+    given-names: Caitlin R.
+    email: fong@nceas.ucsb.edu
+    affiliation: National Center for Ecological Analysis and Synthesis
+  - family-names: Halpern
+    given-names: Benjamin S.
+    affiliation: National Center for Ecological Analysis and Synthesis
+license: MIT
+license-url: https://opensource.org/licenses/MIT
+keywords:
+  - wildfire
+  - resilience
+  - systematic map
+  - PRISMA
